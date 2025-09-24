@@ -25,8 +25,6 @@ forward pass, backpropagation, gradient descent, momentum updates, and learning 
 
 ## Results
 
----
-
 ### XOR Dataset — Solving a Non-Linear Problem
 ![XOR Training + Decision Regions](images/xor.png)
 
